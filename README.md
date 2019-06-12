@@ -13,8 +13,8 @@
 - PHP/Laravel               (熟练运用，用于主要业务开发)
 - JavaScript/React    	(简单运用，搭建过统计系统)
 - MySQL		      	(理解概念，对简单的索引/储存原理有过了解)
-- Docker			(熟练运用，线上docker-compose环境)
-- 小程序/Vue	     (毕业前了解过VUE，工作后写过小程序)
+- Docker			(熟练运用，线上gitlab+docker-compose自动部署)
+- 小程序/Vue	     (了解过VUE，写过小程序)
 - Go			   （正在实践，学习中）
 - K8s			   （正在学习，实践中）
 
@@ -23,9 +23,6 @@
 - [技术分享](https://github.com/phpandgo-share/caibi-share)（一个菜B技术分享项目，目前刚开始）
 - [GitHub](https://github.com/yushengbuilder?tab=repositories)（目前就是技术分享项目及go的简单实践）
 
-
-     
-    
 # 工作经历
 
 ## 上海澜翊科技有限公司 （ 2017年6月 ~ 至今 ）
